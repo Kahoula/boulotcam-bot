@@ -6,7 +6,7 @@ import asyncio
 import feedparser
 from telegram import Bot
 
-TOKEN = "8946796047:AAFDUkZhoPd639OajwQyzYFinl6DrPBCwbo"
+TOKEN = "8946796047:AAFrlWEkzdB7a8dMQXE6h2LzOuTVt0tFkzE"
 CANAL_ID = "@BoulotCam"
 
 bot = Bot(token=TOKEN)
